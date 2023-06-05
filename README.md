@@ -1,1 +1,2 @@
 # Number-Guessing
+In this python code we will try to guess a randomly generated number between 1 to 100. It has to modes, Easy and Hard. In easy mode we will get 10 chances where as in hard mode we will get only 5 chances to guess the number. Oncw we try to guess the number, if the number we guessed is right we will win. If the guessed number is less than the number chosen number, the computer will say "Too low". If the guessed number is heigher than the cosen number, the computer will say "Too heigh"
